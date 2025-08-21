@@ -1,11 +1,11 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://aristi.dev">Carlos Quintero</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://imgur.com/a/bn9NQEQ">
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
+[![GitHub followers](https://img.shields.io/github/followers/carlsqm?style=social)](https://github.com/carlsqm)
 
-## Sobre mi
+## About me
 - Mechanical engineer specializing in data with over one year of experience in data extraction, processing, and management 
 using tools such as Python, SQL, and Tableau. Responsible and diligent in my work, I strive to grow and continue to acquire 
 data analysis skills.

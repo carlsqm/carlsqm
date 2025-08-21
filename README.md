@@ -19,7 +19,6 @@ Language: Spanish - native, English - advanced.
 Interests: Organization, problem solving, proactivity, automation, continuous improvement.
 <br>
 
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">

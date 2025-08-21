@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://aristi.dev">Carlos Quintero</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/9vOMWOu.jpeg">
+<img src="https://i.imgur.com/AEO2Esv.jpeg">
 
 [![GitHub followers](https://img.shields.io/github/followers/carlsqm?style=social)](https://github.com/carlsqm)
 
